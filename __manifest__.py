@@ -26,7 +26,7 @@
     'author': "Vandekul",
     'website': "https://github.com/vandekul",
     'category': 'Theme',
-    'version': '9.0',
+    'version': '16.0',
     'license': 'GPL-3',
     'application': True,
     'depends': ['website'],
